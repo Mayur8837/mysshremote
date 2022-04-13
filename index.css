@@ -1,0 +1,115 @@
+body{
+    background-color: antiquewhite;
+    padding: 0px;
+}
+#main{
+    margin: 20px;
+    background-color: aqua;
+    display: flex;
+    height: auto;
+    width: auto;
+    gap: 5px;
+    border: solid 2px black;
+}
+#count{
+    text-align: left;
+    height: 150px;
+    width: 300px;
+}
+#parse{
+padding: 0px;
+gap: 21px;
+}
+#h1{
+    text-align: center;
+}
+#img{
+    height: 300px;
+    width: 300px;
+}
+ 
+}  
+#counter{
+    margin-top: 50px;
+    margin-left: 350px;
+    display: flex;
+    background-color: antiquewhite;
+    height:100px ;
+    width: 200px;
+    border: solid 2px whitesmoke;
+}
+#marsh{
+    height: 200px;
+    width: 200px;
+}
+#shock{
+    height: 200px;
+    width: 200px;
+}
+#moon{
+    height: 200px;
+    width: 150px;
+}
+#major{
+    border: solid 2px black;
+    height: auto;
+    width: 1200px;
+    
+}
+#coder{
+    display: flex;
+    background-color: aquamarine;
+   margin-top: 300px;
+    margin-left: 350px;
+    height:250px;
+    width:700px;
+}
+#md{
+    flex-direction: column;
+    margin-left: 30px;
+    background-color: cadetblue;
+    width: 150px;
+    height: 250px;
+}
+h3{
+    gap: 3px;
+}
+#nk{
+    
+    background-color: rgb(215, 154, 228);
+    width: 150px;
+    height: 250px;
+}
+#mk{
+    height: 125px;
+    width: 150px;
+    background-color: deepskyblue;
+}
+#ma{
+ 
+    background-color: burlywood;
+    height: 125px;
+}
+#heading{
+    margin-left: 400px;
+}
+#para{
+    font-size: 20px;
+    margin-right: 20px;
+    margin-left: 20px;
+    margin-top: 50px;
+}
+#visit{
+    width: 90px;
+    height: 30px;
+    background-color: azure;
+    margin-left: 600px;
+    /* margin-bottom: 20px; */
+    margin-top: 70px;
+
+}
+#imgg{
+    width: 400px;
+    height: 400px;
+    margin: 10px;
+}
